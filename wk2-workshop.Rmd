@@ -1,8 +1,8 @@
 ---
 title: "DSE3101_Week2"
 author: "Tiffany"
-date: "`r Sys.Date()`"
 output: github_document
+date: "r Sys.Date()"
 ---
 
 ```{r setup, include=FALSE}
